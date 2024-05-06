@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+
+# Build directories and binary files
+build/
+out/
+cmake-build-*/
+
+# OS Generated Files
+.DS_Store
