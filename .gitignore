@@ -39,3 +39,5 @@ cmake-build-*/
 
 # OS Generated Files
 .DS_Store
+
+*.dSYM/
